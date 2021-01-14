@@ -12,15 +12,15 @@ This project is no longer updated.  The code is here for historic purposes only.
   :target: http://travis-ci.org/pyembed/pyembed
 .. image:: https://coveralls.io/repos/pyembed/pyembed/badge.png
   :target: https://coveralls.io/r/pyembed/pyembed
-.. image:: https://pypip.in/d/pyembed/badge.png
+.. image:: https://img.shields.io/pypi/dm/pyembed.svg
   :target: https://pypi.python.org/pypi/pyembed/
-.. image:: https://pypip.in/v/pyembed/badge.png
+.. image:: https://img.shields.io/pypi/v/pyembed.svg
   :target: https://pypi.python.org/pypi/pyembed/
-.. image:: https://pypip.in/wheel/pyembed/badge.png
+.. image:: https://img.shields.io/pypi/wheel/pyembed.svg
   :target: https://pypi.python.org/pypi/pyembed/
 .. image:: https://pypip.in/egg/pyembed/badge.png
   :target: https://pypi.python.org/pypi/pyembed/
-.. image:: https://pypip.in/license/pyembed/badge.png
+.. image:: https://img.shields.io/pypi/l/pyembed.svg
   :target: https://pypi.python.org/pypi/pyembed/
 
 `OEmbed`_ consumer library for Python with automatic discovery of
